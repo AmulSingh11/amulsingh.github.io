@@ -774,3 +774,8 @@ a:active {
     width:100%;
     position:absolute;
 }
+
+.item-details a {
+    color: #343a40 !important;
+    text-decoration: none;
+}
